@@ -27,6 +27,8 @@
 </details>
 <br>
 
+---
+
 <details open="">
 <summary>
  📔 GitHub Stats:
