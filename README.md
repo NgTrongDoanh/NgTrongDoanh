@@ -33,7 +33,7 @@
   📊 Github Statistic
   </h2>
 </summary>
-<div> 
+<div align="center"> 
   
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgTrongDoanh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
