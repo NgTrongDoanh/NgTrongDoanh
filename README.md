@@ -12,9 +12,10 @@
 
 <details>
 <summary>
+  <h2>
   ✨ Tech stack currently using:
+  </h2>
 </summary>
-   <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></a></code>
@@ -25,11 +26,14 @@
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
   
 </details>
-<br>
 
----
-
-<details open="">
+<details open="" >
+<summary>
+  <h2>
+  📊 Github Statistic
+  </h2>
+</summary>
+<div> 
   
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgTrongDoanh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
@@ -39,11 +43,16 @@
 
 ## 🛠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgTrongDoanh&layout=compact&theme=tokyonight)
+
+</div>
 </details>
+<details>
+<summary>
+  <h2>
+🤝 Connect with me
+  </h2>
+</summary>
 
----
-
-<h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
    <img align="left" alt="| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -64,3 +73,5 @@
     <img align="left" alt="| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
+</details>
+
