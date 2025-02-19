@@ -54,22 +54,16 @@
 </summary>
 
   </hr>
-  <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
+  <a href="https://www.linkedin.com/in/ngtrongdoanh/">
    <img align="left" alt="| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:lionratheshan@gmail.com">
+  <a href="mailto:nguyentrongdoanh2005@gmail.com">
     <img align="left" alt="| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/Ratheshan_03">
-    <img align="left" alt="| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-  <a href="https://www.instagram.com/ratheshan_03/">
-    <img align="left" alt=" | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=100003874786181">
+   <a href="https://www.facebook.com/NguyenTrongDoanh.1856/">
     <img align="left" alt="| Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
-   <a href="https://github.com/Ratheshan03">
+   <a href="https://github.com/NgTrongDoanh">
     <img align="left" alt="| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
