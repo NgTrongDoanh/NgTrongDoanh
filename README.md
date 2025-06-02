@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     This is me <b>Trong Doanh</b>, a first year <b>student</b> undergraduate from <a href="https://www.fit.hcmus.edu.vn/en/"> <b>VNUHCM-University of Science</b>, Vietnam</a>.
-    An aspiring <b>Developer</b>&nbsp;and <b> Artificial Intelligence Enthusiast.</b> 
+    An aspiring <b>Developer</b>&nbsp;.</b> 
   <br>
 </p>
 
